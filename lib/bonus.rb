@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-  epic_tragedy[:montague][:hero_friends][:attitude] = "dead"
-  epic_tragedy[:capulet][:heroine_friends][:attitude] = "dead"
+  epic_tragedy[:montague][:hero][:attitude] = "dead"
+  epic_tragedy[:capulet][:heroine][:attitude] = "dead"
 
   
 
